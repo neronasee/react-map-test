@@ -1,0 +1,10 @@
+.callToAction {
+  padding: 25px 0;
+  vertical-align: middle;
+}
+
+@media (min-width: 992px) {
+  .callToAction {
+    border: 1px solid grey;
+  }
+}

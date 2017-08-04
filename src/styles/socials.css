@@ -1,0 +1,20 @@
+.socials > a {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.socials .fb {
+  color: blue;
+}
+.socials .tw {
+  color: lightblue;
+}
+.socials .ig {
+  color: purple;
+}
+.socials .in {
+  color: blue;
+}
+.socials .pt {
+  color: red;
+}
